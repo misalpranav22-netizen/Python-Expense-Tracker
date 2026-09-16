@@ -1,5 +1,3 @@
-# Python-Expense-Tracker
-A beginner-friendly Python expense tracker for managing and analyzing personal expenses.
 # Python Expense Tracker
 
 A beginner-friendly Python console application for recording, viewing, and analyzing personal expenses.
